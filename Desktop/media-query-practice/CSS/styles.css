@@ -1,3 +1,19 @@
+@media screen and (max-width: 480px) and (min-width: 300px) {
+
+}
+
+@media screen and (max-width: 1000px) and (min-width: 700px) { 
+
+}
+
+@media screen and (min-width: 768px) {
+  .column {
+    width: 300px;
+    float: left;
+    padding: 20px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   body {
     background-color: black;

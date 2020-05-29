@@ -5,9 +5,19 @@
 @media Screen and (min-width: 2000) and (max-width: 1000) {
 
 }
+html {
+  font-family:sans-serif;
+  background: url(Newport.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
 
 h1 {
   background-color: gray;
+  border-style: inset;
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
 }
 
 title {
@@ -15,7 +25,18 @@ title {
 }
 
 body {
-  background: url(Newport.jpg);
-  background-repeat: no-repeat;
-  background-size: auto;
+  background-color: grey;
+  border-style: groove;
+  width: 400px;
+  padding: 10px;
+  margin: 20px;
 }
+
+li {
+  background-color: gray;
+  border-style: inset;
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
+}
+

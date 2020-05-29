@@ -6,10 +6,8 @@
 
 }
 html {
-  font-family:sans-serif;
-  background: url(Newport.jpg);
-  background-repeat: no-repeat;
-  background-size: auto;
+  background-color: ivory;
+  border-style: solid;
   max-width: 1500px
 }
 
@@ -18,23 +16,21 @@ div1 {
 }
 
 h1 {
-  background-color: gray;
+  background-color: rgba(128, 128, 128, 0.769);
   border-style: inset;
-  font-size: 5vw;
+  font-size: 4vw;
   width: auto;
   padding: 20px;
   margin: 20px;
   min-width: 400;
 }
 
-title {
-  background-color: grey;
-}
-
 body {
-  background: url(Newport.jpg);
+  font-family:sans-serif;
+  background-image: url("newport.jpg");
   background-repeat: no-repeat;
-  background-size: auto;
+  background-position: right top;
+  background-attachment: fixed;
   width: auto;
   padding: 10px;
   margin: 20px;
@@ -49,15 +45,10 @@ h1 {
   min-width: 400;
 }
 
-li {
-  background-color: gray;
-  border-style: inset;
-  width: 300px;
-  padding: 20px;
-  margin: 20px;
-}
-
 img {
+  float: none;
   max-width: 100%;
   max-height: 100%;
+  padding: 5px;
+  margin: 5px;
 }

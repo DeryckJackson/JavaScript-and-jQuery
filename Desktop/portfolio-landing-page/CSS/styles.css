@@ -1,18 +1,11 @@
-html. {
-  font-family: Arial;
-  -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
+h1 {
+  background-color: gray;
 }
 
-body. {
-  color: whitesmoke 
-  
-}
-
-h1. {
-  text-size-adjust: 14;
+title {
+  background-color: grey;
 }
 
 ::backdrop {
-  background-image;https://mikeputnamphoto.com/wp-content/uploads/2019/01/Serpentine-Stream-1-0x0.jpg:
+  background-image: url(../desktop/Newport.jpg);
 }

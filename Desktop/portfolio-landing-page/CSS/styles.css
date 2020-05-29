@@ -1,11 +1,23 @@
+@media Screen and (min-width: 400) and (max-width: 200) {
+
+}
+
+@media Screen and (min-width: 2000) and (max-width: 1000) {
+
+}
+
 h1 {
   background-color: gray;
+}
+
+a { 
+  white-space: nowrap; 
 }
 
 title {
   background-color: grey;
 }
 
-::backdrop {
-  background-image: url(../desktop/Newport.jpg);
+body {
+  background-image: url(Newport.jpg)
 }

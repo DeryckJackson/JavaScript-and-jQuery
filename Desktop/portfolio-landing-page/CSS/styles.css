@@ -1,5 +1,16 @@
+html. {
+  font-family: Arial;
+  -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
 body. {
-  color: whitesmoke
+  color: whitesmoke 
+  
+}
+
+h1. {
+  text-size-adjust: 14;
 }
 
 ::backdrop {

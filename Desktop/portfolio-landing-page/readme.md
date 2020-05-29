@@ -10,7 +10,8 @@ _{This page signifies a web page represnation of the work I have done over cours
 ## Setup/Installation Requirements
 
 * _Access to internet connection_
-* _
+* _Updated internet browser_
+* _Access to Github_
 
 ## Known Bugs
 
